@@ -2,7 +2,7 @@
 <h3 align="center">Repositório criado para envio de atividade de Ruby.</h3>
 
 
-## 📑  Pré-requisitos
+## 🔑  Pré-requisitos
 
 ```sh
 - ruby >  3.1.2
@@ -10,7 +10,7 @@
 - git > 2.36.1
 ```
 ***
-## 📥 Install 
+## 💻 Install 
  Dependencias Necessárias para o projeto 
 
 ```sh
@@ -46,12 +46,12 @@ Como Executar o aqruivo do Challange final da Sprint Compass
 * LinkedIn: [@ThomásSolda](https://www.linkedin.com/in/thom%C3%A1s-sold%C3%A1-977668228/)
 
 ***
-## 📝 License
+## 💼 License
 
 Copyright © 2022 [Thomás Soldá](https://github.com/ThomasTSolda).<br />
 Copyright © 2022 [Compass](https://compass.uol/).<br /> 
 ***
-## 📰 Credits
+## 📎 Credits
 * Ajuda em README e codigo [Daniel Merib](http://github.com/ypek)
 * Ajuda em README e codigo [Leonardo Walker](http://github.com/leonardo-walker)
 * Ruby Koans [Challange](http://rubykoans.com/).<br />
