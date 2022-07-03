@@ -1,5 +1,5 @@
 require 'rspec'
-require_relative '../logic/Calculadora'
+require_relative '../src/Calculadora'
 
 describe(Calculadora) do
     calculadora = Calculadora.new
